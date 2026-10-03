@@ -1,0 +1,2 @@
+[2026-10-03 23:46:58] UID:MU1 PASS Level:30 Nick:M Region:BD EXP:0
+[2026-10-03 23:46:58] UID:MU2 PASS Level:21 Nick:M Region:BD EXP:0

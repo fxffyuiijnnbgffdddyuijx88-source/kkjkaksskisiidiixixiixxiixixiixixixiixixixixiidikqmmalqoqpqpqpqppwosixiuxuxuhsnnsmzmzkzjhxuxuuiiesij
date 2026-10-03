@@ -1,0 +1,30 @@
+{
+    "111111": {
+        "unique_device_id": "Google|2d8c0782-ac03-4d98-9f22-52d7af712774",
+        "brand": "Realme",
+        "model": "RMX3700",
+        "gpu_renderer": "Mali-G710",
+        "system_software": "Android OS 14 / API-34",
+        "screen_width": 1080,
+        "screen_height": 720,
+        "screen_dpi": "313",
+        "memory": 3621,
+        "telecom_operator": "Banglalink",
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2622 | 9",
+        "client_ip": "214.134.140.67"
+    },
+    "oid_tok": {
+        "unique_device_id": "Google|a2c5e2da-8e9b-4b2a-93f2-64e2e71937de",
+        "brand": "Xiaomi",
+        "model": "M2006C3LII",
+        "gpu_renderer": "PowerVR Rogue GE8320",
+        "system_software": "Android OS 10 / API-29 (QP1A.190711.020/V12.0.26.0.QCDINXM)",
+        "screen_width": 720,
+        "screen_height": 1600,
+        "screen_dpi": "309",
+        "memory": 5975,
+        "telecom_operator": "Grameenphone",
+        "processor_details": "ARM64 FP ASIMD AES VMH | 3075 | 11",
+        "client_ip": "191.113.206.115"
+    }
+}
